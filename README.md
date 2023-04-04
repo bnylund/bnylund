@@ -1,5 +1,7 @@
 # 💫 About Me:
-🚀 Creator of Rocketcast<br><br>🎓 B.S. Computer Science from University of Minnesota - Twin Cities<br>🎮 Collegiate Rocket League Player for <a href="https://twitch.tv/GopherEsports" target="_blank">GopherEsports</a><br>📺 Broadcaster & Overlay Programmer<br>
+🚀 Creator of [Rocketcast](https://portfolio.nylund.us/projects/rocketcast/)<br><br>🎓 B.S. Computer Science from University of Minnesota - Twin Cities<br>🎮 Collegiate Rocket League Player for <a href="https://twitch.tv/GopherEsports" target="_blank">GopherEsports</a><br>📺 Broadcaster & Overlay Programmer<br>
+
+🛠 [Portfolio](https://portfolio.nylund.us/) under construction.
 
 
 ## 🌐 Socials:
